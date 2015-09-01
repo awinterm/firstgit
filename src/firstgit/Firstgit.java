@@ -16,6 +16,7 @@ public class Firstgit {
      */
     public static void main(String[] args) {
         System.out.println("Hello world");
+        System.out.println("I love Git I don't care what you put in.");
     }
     
 }
